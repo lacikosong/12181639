@@ -207,6 +207,7 @@ hr {
   padding-left: 0.75rem;
   margin-right: auto;
   margin-left: auto;
+  background-color: #CCFFFF;
 }
 
 @media (min-width: 576px) {
@@ -992,8 +993,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
-  background-color: #CCFFFF;
+  max-width: 75rem;  
 }
 
 section.resume-section .resume-section-content {
